@@ -9,25 +9,25 @@
 #
 #
 
-name: Xwrt-源码
+name: Immortalwrt-天灵
 on:
   workflow_dispatch:
     inputs:
       REPO_BRANCH:
-        description: '（Xwrt源码）请选择源码分支'
+        description: '天灵源码-请选择分支'
         required: true
-        default: 'master'
+        default: 'openwrt-24.10'
         type: choice
         options:
           - 'master'
-          - '21.10'
-          - '22.03'
-          - 'pr-fix-nand_do_platform_check'
-          - 'master-mt7981'
-          - 'pr-rm-ax6000'
-          - 'pr-wolfssl'
+          - 'mt798x'
+          - 'openwrt-24.10'
+          - 'openwrt-23.05'
+          - 'openwrt-21.02'
+          - 'openwrt-18.06'
+          - 'openwrt-18.06-k5.4'
       CONFIG_FILE:
-        description: '请选择配置文件'
+        description: '请选择[seed文件夹内]的配置文件'
         required: true
         default: 'x86_64'
         type: choice
@@ -112,9 +112,9 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [Xwrt]
+        target: [Immortalwrt]
         
-        # 请勿对 target: [Xwrt] 做任何修改
+        # 请勿对 target: [Immortalwrt] 做任何修改
         
     steps:
     - name: 密匙检测（密匙为空则退出）

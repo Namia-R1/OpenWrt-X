@@ -9,23 +9,22 @@
 #
 #
 
-name: Xwrt-源码
+name: Lienol-源码
 on:
   workflow_dispatch:
     inputs:
       REPO_BRANCH:
-        description: '（Xwrt源码）请选择源码分支'
+        description: '（Lienol源码）请选择源码分支'
         required: true
-        default: 'master'
+        default: '24.10'
         type: choice
         options:
-          - 'master'
-          - '21.10'
+          - 'main'
+          - '24.10'
+          - '23.05'
           - '22.03'
-          - 'pr-fix-nand_do_platform_check'
-          - 'master-mt7981'
-          - 'pr-rm-ax6000'
-          - 'pr-wolfssl'
+          - '21.02'
+          - '19.07'
       CONFIG_FILE:
         description: '请选择配置文件'
         required: true
@@ -112,9 +111,9 @@ jobs:
     strategy:
       fail-fast: false
       matrix:
-        target: [Xwrt]
+        target: [Lienol]
         
-        # 请勿对 target: [Xwrt] 做任何修改
+        # 请勿对 target: [Lienol] 做任何修改
         
     steps:
     - name: 密匙检测（密匙为空则退出）
