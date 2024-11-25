@@ -1,13 +1,31 @@
-<div align="center">
-  
-![img.png](backups/实例/openwrt.png)
--
-<h1>OpenWrt-X 固件云编译</h1>
+<p>
+  <h1 align="center">
+    <b>I'm <a href="https://t.me/openwrtli">OpenWrtLi</a> 🎈</b>
 
-<img src="https://img.shields.io/github/downloads/Namia-R/OpenWrt-X/total.svg?style=for-the-badge&color=32C955"/>
-<img src="https://img.shields.io/github/stars/Namia-R/OpenWrt-X.svg?style=for-the-badge&color=orange"/>
-<img src="https://img.shields.io/github/forks/Namia-R/OpenWrt-X.svg?style=for-the-badge&color=ff69b4"/>
-<img src="https://img.shields.io/github/license/Namia-R/OpenWrt-X.svg?style=for-the-badge&color=blueviolet"/>
+<div align="right">
+  <a href="https://lidrive.vip/">
+    <img src="https://img.shields.io/badge/2024 haappy new year-ff69b4.svg?style=flat" alt="2024" />
+  </a>
+</div>
+
+<p align="center">
+  <a href="https://google.com">
+    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+  </a>
+</p>
+
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/kenzo" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+</p>
+  <br />
+   <small><img src="https://v1.jinrishici.com/all.svg?font-size=24&spacing=6"></small>
+   <br />
+   <br />
+ </div>
+ <br />
+
 
 [![](https://img.shields.io/badge/-目录:-696969.svg)](#readme) [![](https://img.shields.io/badge/-项目说明-FFFFFF.svg)](#项目说明-) [![](https://img.shields.io/badge/-固件特色-FFFFFF.svg)](#固件特色-) [![](https://img.shields.io/badge/-固件下载-FFFFFF.svg)](#固件下载-) [![](https://img.shields.io/badge/-近期更新-FFFFFF.svg)](#近期更新-) [![](https://img.shields.io/badge/-插件预览-FFFFFF.svg)](#插件预览-) [![](https://img.shields.io/badge/-定制固件-FFFFFF.svg)](#定制固件-) [![](https://img.shields.io/badge/-特别提示-FFFFFF.svg)](#特别提示-) [![](https://img.shields.io/badge/-鸣谢-FFFFFF.svg)](#鸣谢-)
 </div>
