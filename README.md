@@ -233,7 +233,7 @@
 
 - **因精力有限不提供任何技术支持和教程等相关问题解答，不保证完全无 BUG！**
 
-[![Stargazers over time](https://starchart.cc/shidahuilang/openwrt.svg)](https://starchart.cc/shidahuilang/openwrt)
+[![Stargazers over time](https://starchart.cc/Namia-R/OpenWrt-X.svg)](https://starchart.cc/Namia-R/OpenWrt-X)
 
 ## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
 | [ImmortalWrt](https://github.com/immortalwrt) | [coolsnowwolf](https://github.com/coolsnowwolf) | [Lienol](https://github.com/Lienol/openwrt) | [OpenWrt](https://github.com/openwrt/openwrt) | [P3TERX](https://github.com/P3TERX) | [Xwrt](https://github.com/x-wrt/x-wrt) | [281677160](https://github.com/281677160/bendi) |
