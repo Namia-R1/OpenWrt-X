@@ -56,7 +56,7 @@
 | [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R/OpenWrt-X/blob/main/.github/workflows/Lede.yml) | [![](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Lede.yml/badge.svg)](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Lede.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R/OpenWrt-X/blob/main/build/Lede/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R/OpenWrt-X/releases/tag/Update-x86) |
 
 ### 近期更新 [![](https://img.shields.io/badge/-近期固件更新-FFFFFF.svg)](#近期更新-)
-- ### 努力修复光影猫photonicat编译基础配置……🤣
+- ### 努力修复23.05编译基础配置……🤣
 
 ## 插件预览 [![](https://img.shields.io/badge/-固件插件及功能预览-FFFFFF.svg)](#插件预览-)
 - ![img.png](backups/实例/1img.png)
