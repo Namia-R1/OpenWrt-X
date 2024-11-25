@@ -1,10 +1,8 @@
 <p>
   <h1 align="center">
     <b>I'm <a href="https://t.me/RileyK9880">OpenWrt-X</a> 🎈</b>
-
 [![Telegram](https://img.shields.io/badge/-Telegram-181717?style=flat&logo=Telegram&logoColor=white)](https://t.me/RileyK9880)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:kmy258855@gmail.com)
-
 <p align="center">
   <a href="https://google.com">
     <img width="100" src="https://raw.githubusercontent.com/aralroca/aralroca.com/fe897b915ba28947a17aa3665b3498064b914852/src/public/images/logo.svg" alt="logo" />
