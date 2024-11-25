@@ -2,11 +2,7 @@
   <h1 align="center">
     <b>I'm <a href="https://t.me/RileyK9880">OpenWrt-X</a> 🎈</b>
 
-<div align="right">
-  <a href="https://lidrive.vip/">
-    <img src="https://img.shields.io/badge/2024 haappy new year-ff69b4.svg?style=flat" alt="2024" />
-  </a>
-</div>
+
 
 <p align="center">
   <a href="https://google.com">
