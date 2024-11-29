@@ -34,9 +34,9 @@
 - 项目编译的固件插件为最新版本，最新版插件可能有 BUG，如果之前使用稳定则无需追新
 - 第一次使用请采用全新安装，避免出现升级失败以及其他一些可能的 BUG
 - 支持uefi和传统启动两种模式，可以使用微pe或传统你们知道的刷机方式
-- 另外就是网盘的固件可能更新的网站是我原始仓库-X的你们如果刷网盘固件并且要和我后台关联更新的话把Namia-X改成Namia-R
+- 另外就是网盘的固件可能更新的网站是我原始仓库-X的你们如果刷网盘固件并且要和我后台关联更新的话把Namia-X改成Namia-R1
 - 刷机工具 [`百度网盘💕`](https://pan.baidu.com/s/1k14RFEMdHw3W_S7wCnQyDg?pwd=8986) 提取码: 8986 
-- 编译 [`必看项💕`](https://raw.githubusercontent.com/Namia-R/OpenWrt-X/refs/heads/main/backups/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt) 
+- 编译 [`必看项💕`](https://raw.githubusercontent.com/Namia-R1/OpenWrt-X/refs/heads/main/backups/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt) 
 
 ## 固件特色 [![](https://img.shields.io/badge/-本项目固件特色-FFFFFF.svg)](#固件特色-)
 1. 支持在线更新固件
@@ -48,14 +48,14 @@
 7. 集成在线用户插件，可查看所有在线用户 IP 地址与实时速率等
 
 ## 固件下载 [![](https://img.shields.io/badge/-编译状态及下载链接-FFFFFF.svg)](#固件下载-)
-点击下表中 [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?style=flat&logo=hack-the-box)](https://github.com/Namia-R/OpenWrt-X/releases) 即可跳转到该设备固件下载页面
+点击下表中 [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?style=flat&logo=hack-the-box)](https://github.com/Namia-R1/OpenWrt-X/releases) 即可跳转到该设备固件下载页面
 | 平台+设备名称 | 固件编译状态 | 配置文件 | 固件下载 |
 | :-------------: | :-------------: | :-------------: | :-------------: |
-| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R/OpenWrt-X/blob/main/.github/workflows/Lede.yml) | [![](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Lede.yml/badge.svg)](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Lede.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R/OpenWrt-X/blob/main/build/Lede/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R/OpenWrt-X/releases/tag/Update-x86) |
-| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R/OpenWrt-X/blob/main/.github/workflows/Immortalwrt.yml) | [![](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Immortalwrt.yml/badge.svg)](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Immortalwrt.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R/OpenWrt-X/blob/main/build/Immortalwrt/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R/OpenWrt-X/releases/tag/Update-x86) |
-| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R/OpenWrt-X/blob/main/.github/workflows/Lienol.yml) | [![](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Lienol.yml/badge.svg)](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Lienol.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R/OpenWrt-X/blob/main/build/Lienol/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R/OpenWrt-X/releases/tag/Update-x86) |
-| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R/OpenWrt-X/blob/main/.github/workflows/Official.yml) | [![](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Official.yml/badge.svg)](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Official.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R/OpenWrt-X/blob/main/build/Official/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R/OpenWrt-X/releases/tag/Update-x86) |
-| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R/OpenWrt-X/blob/main/.github/workflows/Xwrt.yml) | [![](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Xwrt.yml/badge.svg)](https://github.com/Namia-R/OpenWrt-X/actions/workflows/Xwrt.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R/OpenWrt-X/blob/main/build/Xwrt/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R/OpenWrt-X/releases/tag/Update-x86) |
+| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R1/OpenWrt-X/blob/main/.github/workflows/Lede.yml) | [![](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Lede.yml/badge.svg)](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Lede.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R1/OpenWrt-X/blob/main/build/Lede/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R1/OpenWrt-X/releases/tag/Update-x86) |
+| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R1/OpenWrt-X/blob/main/.github/workflows/Immortalwrt.yml) | [![](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Immortalwrt.yml/badge.svg)](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Immortalwrt.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R1/OpenWrt-X/blob/main/build/Immortalwrt/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R1/OpenWrt-X/releases/tag/Update-x86) |
+| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R1/OpenWrt-X/blob/main/.github/workflows/Lienol.yml) | [![](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Lienol.yml/badge.svg)](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Lienol.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R1/OpenWrt-X/blob/main/build/Lienol/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R1/OpenWrt-X/releases/tag/Update-x86) |
+| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R1/OpenWrt-X/blob/main/.github/workflows/Official.yml) | [![](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Official.yml/badge.svg)](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Official.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R1/OpenWrt-X/blob/main/build/Official/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R1/OpenWrt-X/releases/tag/Update-x86) |
+| [![](https://img.shields.io/badge/openwrt-X86_64-32C955.svg?logo=openwrt)](https://github.com/Namia-R1/OpenWrt-X/blob/main/.github/workflows/Xwrt.yml) | [![](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Xwrt.yml/badge.svg)](https://github.com/Namia-R1/OpenWrt-X/actions/workflows/Xwrt.yml) | [![](https://img.shields.io/badge/编译-配置-orange.svg?logo=apache-spark)](https://github.com/Namia-R1/OpenWrt-X/blob/main/build/Xwrt/seed/x86_64) | [![](https://img.shields.io/badge/下载-链接-blueviolet.svg?logo=hack-the-box)](https://github.com/Namia-R1/OpenWrt-X/releases/tag/Update-x86) |
 
 ### 近期更新 [![](https://img.shields.io/badge/-近期固件更新-FFFFFF.svg)](#近期更新-)
 - ### 努力修复23.05编译基础配置……🤣
@@ -203,7 +203,7 @@
 
 
 ## 定制固件 [![](https://img.shields.io/badge/-项目基本编译教程-FFFFFF.svg)](#定制固件-)
-1. 首先要登录 Gihub 账号，然后 Fork 此项目到你自己的 Github 仓库，复刻[`必看项！！！💕`](https://github.com/Namia-R/OpenWrt-X/blob/main/backups/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
+1. 首先要登录 Gihub 账号，然后 Fork 此项目到你自己的 Github 仓库，复刻[`必看项！！！💕`](https://github.com/Namia-R1/OpenWrt-X/blob/main/backups/%E5%B7%B2%E7%BC%96%E8%AF%91%E8%AF%B4%E6%98%8E/txt)
 2. REPO_TOKEN密匙制作教程：https://git.io/jm.md 云编译需要 [在此](https://github.com/settings/tokens) 创建个```token```,勾选：```repo```, ```workflow```，保存所得的key【后面两种随意】
 - 然后在此仓库```Settings```->```Secrets```中添加个名字为```REPO_TOKEN```的Secret,填入token获得的key
 
@@ -217,7 +217,7 @@
 - 进ssh选择插件
 - 进入CD命令
 -     cd openwrt && make menuconfig
-6. 编译大概需要1-3小时，一般两个半小时就编译完成，最后后在仓库主页 [Releases](https://github.com/Namia-R/OpenWrt-X/releases) 对应 Tag 标签内下载固件
+6. 编译大概需要1-3小时，一般两个半小时就编译完成，最后后在仓库主页 [Releases](https://github.com/Namia-R1/OpenWrt-X/releases) 对应 Tag 标签内下载固件
 <details>
 
    **如果看不懂编译界面可以参考 YouTube 视频：[软路由固件 OpenWrt 编译界面设置](https://www.youtube.com/watch?v=jEE_J6-4E3Y&list=WL&index=7)**
@@ -228,7 +228,7 @@
 - ### 最后就是所有的固件是基于本人有什么设备而去编译的而不是大众化，有啥做的不好的自行谅解！邮箱和T G联系
 - **因精力有限不提供任何技术支持和教程等相关问题解答，不保证完全无 BUG！**
 
-[![Stargazers over time](https://starchart.cc/Namia-R/OpenWrt-X.svg)](https://starchart.cc/Namia-R/OpenWrt-X)
+[![Stargazers over time](https://starchart.cc/Namia-R1/OpenWrt-X.svg)](https://starchart.cc/Namia-R1/OpenWrt-X)
 
 ## 鸣谢 [![](https://img.shields.io/badge/-跪谢各大佬-FFFFFF.svg)](#鸣谢-)
 | [ImmortalWrt](https://github.com/immortalwrt) | [coolsnowwolf](https://github.com/coolsnowwolf) | [Lienol](https://github.com/Lienol/openwrt) | [OpenWrt](https://github.com/openwrt/openwrt) | [P3TERX](https://github.com/P3TERX) | [Xwrt](https://github.com/x-wrt/x-wrt) | [281677160](https://github.com/281677160/bendi) |
