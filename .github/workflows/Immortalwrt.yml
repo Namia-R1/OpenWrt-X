@@ -33,6 +33,7 @@ on:
         type: choice
         options:
           - 'x86_64'
+          - 'ariaboard_photonicat'
           - 'aarch64'
       CPU_SELECTION:
         description: 'CPU优选,增加编译速度'
