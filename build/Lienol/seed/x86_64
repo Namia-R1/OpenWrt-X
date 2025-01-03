@@ -300,7 +300,7 @@ CONFIG_PACKAGE_v2ray-plugin=y
 CONFIG_PACKAGE_verysync=y
 CONFIG_PACKAGE_wifischedule=y
 CONFIG_PACKAGE_wsdd2=y
-CONFIG_PACKAGE_xray-core=y
+# CONFIG_PACKAGE_xray-core is not set
 CONFIG_PACKAGE_xtables-nft=y
 CONFIG_PACKAGE_xz=y
 CONFIG_PACKAGE_xz-utils=y
