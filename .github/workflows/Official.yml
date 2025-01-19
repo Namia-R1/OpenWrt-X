@@ -25,6 +25,7 @@ on:
           - 'openwrt-21.02'
           - 'openwrt-19.07'
           - 'master'
+          - 'main'
       CONFIG_FILE:
         description: '请选择配置文件'
         required: true
